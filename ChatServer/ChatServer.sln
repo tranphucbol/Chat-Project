@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChatServerV2.0", "ChatServerV2.0\ChatServerV2.0.vcxproj", "{FB37B834-5053-4C7D-A106-DAB8F2381BD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB37B834-5053-4C7D-A106-DAB8F2381BD3}.Debug|x64.ActiveCfg = Debug|x64
+		{FB37B834-5053-4C7D-A106-DAB8F2381BD3}.Debug|x64.Build.0 = Debug|x64
+		{FB37B834-5053-4C7D-A106-DAB8F2381BD3}.Debug|x86.ActiveCfg = Debug|Win32
+		{FB37B834-5053-4C7D-A106-DAB8F2381BD3}.Debug|x86.Build.0 = Debug|Win32
+		{FB37B834-5053-4C7D-A106-DAB8F2381BD3}.Release|x64.ActiveCfg = Release|x64
+		{FB37B834-5053-4C7D-A106-DAB8F2381BD3}.Release|x64.Build.0 = Release|x64
+		{FB37B834-5053-4C7D-A106-DAB8F2381BD3}.Release|x86.ActiveCfg = Release|Win32
+		{FB37B834-5053-4C7D-A106-DAB8F2381BD3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2587A073-5E3D-426C-B6EF-ACDCB6FA6017}
+	EndGlobalSection
+EndGlobal
