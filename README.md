@@ -18,7 +18,6 @@
 * Các chức năng:
 	* Hiển thị log
 	* Hiển thị các user online
-
-![Giao diện server](https://lh3.googleusercontent.com/4icugbnmZLBzIjR4jn_5WhhG0k9l9rkTSSoub6U4IiGjKD27Z_ZBZEnIV2WYGr7j9xS7-v_yrc_b "Giaodien3")
+*![Giao diện server](https://lh3.googleusercontent.com/4icugbnmZLBzIjR4jn_5WhhG0k9l9rkTSSoub6U4IiGjKD27Z_ZBZEnIV2WYGr7j9xS7-v_yrc_b "Giaodien3")
 Link clip demo: [ChatProject](https://drive.google.com/file/d/1RcwiD2tCwU3jsD9bNLkWqHgkaVuzVmPs/view?fbclid=IwAR0IgaaN62bnbmuVE-zL0ypq6pZ5qkFWdjIjLTgMlamdrZuQ2sMESzh_zzw)
 
